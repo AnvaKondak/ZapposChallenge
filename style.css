@@ -1,0 +1,12 @@
+.container{
+  max-width: 1000px;
+  margin: 0 auto;
+  background: #f9f9f9;
+  font-size: 24px;
+  padding: 25px;
+  text-align: center;
+}
+.llamaPar {
+    min-height: 400px;
+    background: transparent;
+}
