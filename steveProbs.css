@@ -18,7 +18,7 @@ body{
 .llamaPar {
     background: transparent;
     background-position: center;
-    height: 750px;
+    height: 800px;
     max-width: 300;
     background-repeat: no-repeat;
     background-size: cover;
@@ -55,29 +55,55 @@ letter-spacing: 20px;
 .left{
   position: relative;
   color: #ffffff;
-  font-size: 60px;
+  font-size: 40px;
   letter-spacing: 2px;
    top: 0;
    left: 0;
    z-index: 10;
     float:left;
       margin-right: 30px;
-      margin-top: 200px;
+      margin-top: 350px;
+      margin-left: 150px;
+}
+
+.bottom{
+  position: relative;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 2px;
+   top: 0;
+   left: 0;
+   z-index: 10;
+    float:left;
+      margin-right: 30px;
+      margin-top: 210px;
       margin-left: 150px;
 }
 
 .right{
   position: relative;
   color: #ffffff;
-  font-size: 60px;
+  font-size: 40px;
   letter-spacing: 2px;
    top: 0;
    left: 0;
    z-index: 10;
     float:left;
       margin-left: 800px;
-      margin-top: 200px;
+      margin-top: 350px;
+}
 
+.rightS{
+  position: relative;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 2px;
+   top: 0;
+   left: 0;
+   z-index: 10;
+    float:left;
+      margin-left: 700px;
+      margin-top: 400px;
 }
 
 span.highlight {

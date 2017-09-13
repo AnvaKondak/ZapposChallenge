@@ -52,8 +52,6 @@ h1{
 .slWrap {
 	position:relative;
   display:inline block;
-	/*top: calc(50% - 100px);
-	left: calc(50% - 125px);*/
 	width: 150px;
 	height: 100px;
   margin-bottom: 200px;
